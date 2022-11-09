@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @litianjun
 - 👀 I’m interested in writing code.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on github.
+- 🌱 I’m currently learning how to open source.
+- 💞️ I’m looking to collaborate on GitHub.
 - 📫 You minght reach me by email 510604151@qq.com.
 
 <!---
